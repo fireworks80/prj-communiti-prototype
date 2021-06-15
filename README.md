@@ -1,5 +1,6 @@
 # Community flatform prototype
 
+<img src="./screen-shot.png" alt="커뮤니티 플랫폼 메인 화면 이미지" />
 ## 사용기술
 
 <img align="left" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" />
