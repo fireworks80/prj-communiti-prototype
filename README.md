@@ -9,6 +9,9 @@
 <img align="left" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" />
 <img align="left" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" />
 
+<br />
+<br />
+
 ## 제작 사유
 
 - PI 리뷰때 사용할 커뮤니티 플랫폼의 일부 기능인 게시판, 댓글 부분의 시연을 위해 제작
